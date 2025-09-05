@@ -1,0 +1,9 @@
+huberman-assistant/
+├── .env
+├── app.py
+├── data_processor.py
+├── search_engine.py
+├── requirements.txt
+└── dataset_youtube-scraper_2025-09-05_09-56-34-887 (3).json
+└── venv/
+└── chroma_db/
